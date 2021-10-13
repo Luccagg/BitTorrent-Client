@@ -1,1 +1,1 @@
-# BitTorrent cliente implementation
+# BitTorrent client implementation
